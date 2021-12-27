@@ -1,0 +1,22 @@
+7:
+a. string
+b. string
+c. datetime
+d. byte
+e. double
+f. double
+g. double
+h. double
+i. int
+j. double
+k. double
+l. double
+m. bool
+n. datetime
+o. long
+p. string
+q. int
+r. string
+s. string
+t. double
+u. long

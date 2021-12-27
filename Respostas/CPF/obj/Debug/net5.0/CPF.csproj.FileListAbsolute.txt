@@ -1,0 +1,16 @@
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.csproj.AssemblyReference.cache
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.AssemblyInfoInputs.cache
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.AssemblyInfo.cs
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.csproj.CoreCompileInputs.cache
+/home/pc/Desktop/CPF/bin/Debug/net5.0/CPF
+/home/pc/Desktop/CPF/bin/Debug/net5.0/CPF.deps.json
+/home/pc/Desktop/CPF/bin/Debug/net5.0/CPF.runtimeconfig.json
+/home/pc/Desktop/CPF/bin/Debug/net5.0/CPF.runtimeconfig.dev.json
+/home/pc/Desktop/CPF/bin/Debug/net5.0/CPF.dll
+/home/pc/Desktop/CPF/bin/Debug/net5.0/ref/CPF.dll
+/home/pc/Desktop/CPF/bin/Debug/net5.0/CPF.pdb
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.dll
+/home/pc/Desktop/CPF/obj/Debug/net5.0/ref/CPF.dll
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.pdb
+/home/pc/Desktop/CPF/obj/Debug/net5.0/CPF.genruntimeconfig.cache

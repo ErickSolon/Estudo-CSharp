@@ -1,0 +1,16 @@
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/cpqiestudo
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/cpqiestudo.deps.json
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/cpqiestudo.runtimeconfig.json
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/cpqiestudo.runtimeconfig.dev.json
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/cpqiestudo.dll
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/ref/cpqiestudo.dll
+/home/pc/Desktop/cpqiestudo/bin/Debug/net5.0/cpqiestudo.pdb
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.csproj.AssemblyReference.cache
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.AssemblyInfoInputs.cache
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.AssemblyInfo.cs
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.csproj.CoreCompileInputs.cache
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.dll
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/ref/cpqiestudo.dll
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.pdb
+/home/pc/Desktop/cpqiestudo/obj/Debug/net5.0/cpqiestudo.genruntimeconfig.cache

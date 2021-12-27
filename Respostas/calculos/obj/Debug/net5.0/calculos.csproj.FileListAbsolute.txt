@@ -1,0 +1,16 @@
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/calculos
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/calculos.deps.json
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/calculos.runtimeconfig.json
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/calculos.runtimeconfig.dev.json
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/calculos.dll
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/ref/calculos.dll
+/home/pc/Desktop/Respostas/calculos/bin/Debug/net5.0/calculos.pdb
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.csproj.AssemblyReference.cache
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.AssemblyInfoInputs.cache
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.AssemblyInfo.cs
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.csproj.CoreCompileInputs.cache
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.dll
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/ref/calculos.dll
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.pdb
+/home/pc/Desktop/Respostas/calculos/obj/Debug/net5.0/calculos.genruntimeconfig.cache

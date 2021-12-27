@@ -1,0 +1,16 @@
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.csproj.AssemblyReference.cache
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.AssemblyInfoInputs.cache
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.AssemblyInfo.cs
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.csproj.CoreCompileInputs.cache
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/cadastro
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/cadastro.deps.json
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/cadastro.runtimeconfig.json
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/cadastro.runtimeconfig.dev.json
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/cadastro.dll
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/ref/cadastro.dll
+/home/pc/Desktop/Respostas/cadastro/bin/Debug/net5.0/cadastro.pdb
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.dll
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/ref/cadastro.dll
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.pdb
+/home/pc/Desktop/Respostas/cadastro/obj/Debug/net5.0/cadastro.genruntimeconfig.cache
